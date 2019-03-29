@@ -24,4 +24,6 @@ sourceTree添加github ssh
 	https://github.com/wj1990/sourceTreeAddGithub.git<br>
 	所以刚提交了一次 还需要输入用户名密码<br>
 	应该用 ssh git@github.com:wj1990/sourceTreeAddGithub.git
-	
+
+测试一下 我在这个地方做了修改
+----
